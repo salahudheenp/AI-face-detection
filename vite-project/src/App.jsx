@@ -40,7 +40,7 @@ function App() {
                             <input type="text" placeholder="What's on your mind?" className="postInput" />
                             <label htmlFor="file">
                                 <img
-                                    className="addImg"
+                                     className="addImg"
                                     src="https://cdn.icon-icons.com/icons2/564/PNG/512/Add_Image_icon-icons.com_54218.png"
                                     alt=""
                                 />
@@ -69,5 +69,9 @@ function App() {
         </>
     );
 }
+
+
+
+
 
 export default App;
