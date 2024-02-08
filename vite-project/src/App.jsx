@@ -32,7 +32,6 @@ function App() {
                 <div className="newPostCard">
                     <div className="addPost">
                         <img
-                            src="https://images.pexels.com/photos/9371782/pexels-photo-9371782.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
                             alt=""
                             className="avatar"
                         />
