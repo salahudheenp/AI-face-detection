@@ -41,10 +41,13 @@ function App() {
                             <label htmlFor="file">
                                 <img
                                      className="addImg"
+                                    src="https://cdn.icon-icons.com/icons2/564/PNG/512/Add_Image_icon-icons.com_54218.png"
                                     alt=""
                                 />
                                 <img
                                     className="addImg"
+                                    src="https://icon-library.com/images/maps-icon-png/maps-icon-png-5.jpg"
+                                    alt=""
                                 />
                                 <img
                                     className="addImg"
