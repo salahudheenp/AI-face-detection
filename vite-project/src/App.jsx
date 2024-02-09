@@ -45,8 +45,6 @@ function App() {
                                 />
                                 <img
                                     className="addImg"
-                                    src="https://icon-library.com/images/maps-icon-png/maps-icon-png-5.jpg"
-                                    alt=""
                                 />
                                 <img
                                     className="addImg"
